@@ -8,14 +8,13 @@
 </p>
 </a>
 </p>
-<p>
+
   ![](https://komarev.com/ghpvc/?username=JoaquimBreno&color=green)
-</a>
-<p>
+  
   [![Instagram](https://img.shields.io/badge/-Instagram-333333?style=flat&logo=instagram)](https://www.instagram.com/joaquimbreno_/)
-  &nbsp;
+
   [![Linkedin](https://img.shields.io/badge/-Linkedin-333333?style=flat&logo=Linkedin)](https://www.linkedin.com/in/joaquimbreno/)
-</p>
+
 <!--
 **JoaquimBreno/JoaquimBreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
