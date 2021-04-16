@@ -1,4 +1,13 @@
-### Hi there 👋
+<p align="center">
+<a href="https://github.com/bittoin">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaquimBreno&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquimBreno&theme=dracula&layout=compact&langs_count=6" />
+ <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/JoaquimBreno/count.svg" />
+</p>
+</a>
+</p>
 
 <!--
 **JoaquimBreno/JoaquimBreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
