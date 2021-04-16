@@ -1,7 +1,7 @@
 <p align="center">
 <a href="https://github.com/JoaquimBreno">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaquimBreno&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquimBreno&theme=dracula&layout=compact&langs_count=6" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaquimBreno&bg_color=30,A82200,000000&title_color=fff&text_color=fff" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquimBreno&bg_color=30,A82200,000000&title_color=fff&text_color=fff&layout=compact&langs_count=6" />
 </a>
 </p>
 
