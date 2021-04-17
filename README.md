@@ -4,8 +4,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquimBreno&bg_color=30,290800,000000&title_color=fff&text_color=fff&layout=compact&langs_count=6" />
 </a>
 </p>
-
-  <!--![](https://komarev.com/ghpvc/?username=JoaquimBreno&color=green)-->
 <p align="center">  
 <a href="https://www.instagram.com/joaquimbreno_/">
   <img src="https://img.shields.io/badge/-Instagram-333333?style=flat&logo=instagram" />
@@ -13,6 +11,9 @@
 <a href="https://www.linkedin.com/in/joaquimbreno/">
   <img src="https://img.shields.io/badge/-Linkedin-333333?style=flat&logo=Linkedin" />   
 </a>
+</p>
+<p align="center">
+<img src ="https://komarev.com/ghpvc/?username=JoaquimBreno&color=red" />
 </p>
 
 <!--
