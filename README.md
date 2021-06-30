@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Joaquim Breno </h2>
-
+<img src="animationme(1).gif"></img>
 <h2 align="center"> 🔧 Technologies & Tools </h2>
 <p align="center"> 
    <a><img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&labelColor=black&logoColor=white&color=290800"></img></a>
