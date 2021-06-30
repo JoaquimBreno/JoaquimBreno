@@ -62,8 +62,8 @@
    <a><img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&labelColor=black&logoColor=white&color=290800"></img></a>
    <a><img src="https://img.shields.io/badge/Code-Jupyter-informational?style=flat&logo=jupyter&labelColor=black&logoColor=white&color=290800"></img></a>
    <a><img src="https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=pandas&labelColor=black&logoColor=white&color=290800"></img></a>
+   <a><img src="https://img.shields.io/badge/Code-Numpy-informational?style=flat&logo=numpy&labelColor=black&logoColor=white&color=290800"></img></a>
    <a><img src="https://img.shields.io/badge/Code-TensorFlow-informational?style=flat&logo=tensorflow&labelColor=black&logoColor=white&color=290800"></img></a>
-   <a><img src="https://img.shields.io/badge/Code-Keras-informational?style=flat&logo=keras&labelColor=black&logoColor=white&color=290800"></img></a>
    <a><img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&labelColor=black&logoColor=white&color=290800"></img></a>
    <a><img src="https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=powershell&labelColor=black&logoColor=white&color=290800"></img></a>
    <a><img src="https://img.shields.io/badge/Tools-Anaconda-informational?style=flat&logo=anaconda&labelColor=black&logoColor=white&color=290800"></img></a>
