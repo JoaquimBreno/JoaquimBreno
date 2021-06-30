@@ -2,7 +2,7 @@
 <img src="animationme(1).gif"></img>
 
 <p>
-   <img align='right' width="150" src="elmo.gif" width="230"></img> 
+   <img align='right' width="150" src="https://s6.gifyu.com/images/elmo.md.gif" width="230"></img> 
    <em>Computer Engineering at
    <a href="https://www.ufpb.br/">Federal University of Paraiba</a>
    <img src="https://media.giphy.com/media/MXiBagsrVdre4FKNxr/giphy.gif" width="30">
