@@ -1,5 +1,21 @@
 <h1 align="center"> Hi, I'm Joaquim Breno </h2>
 <img src="animationme(1).gif"></img>
+
+<p>
+   <img align='left' width="150" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"></img> 
+   <em>Computer Engineering at
+   <a href="https://www.ufpb.br/">Federal University of Paraiba</a>
+   <img src="https://media.giphy.com/media/MXiBagsrVdre4FKNxr/giphy.gif" width="30">
+   </br>Developer and Researcher at 
+   <a href="https://aria.ci.ufpb.br/">ARIA</a>
+   <img src="https://media.giphy.com/media/NE353aasvIpC7u6aHv/giphy.gif" width="30"> 
+   </br>Developer and Researcher at 
+   <a href="https://aria.ci.ufpb.br/">ARIA</a>
+   <img src="https://media.giphy.com/media/NE353aasvIpC7u6aHv/giphy.gif" width="30"> 
+   </em>
+</p>
+
+<br></br>
 <h2 align="center"> 🔧 Technologies & Tools </h2>
 <p align="center"> 
    <a><img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&labelColor=black&logoColor=white&color=290800"></img></a>
@@ -27,6 +43,7 @@
    <a><img src="https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&labelColor=black&logoColor=white&color=290800"></img></a>
    <a><img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&labelColor=black&logoColor=white&color=290800"></img></a>
 
+</p>
 </p>
 
 <br></br>
