@@ -1,12 +1,15 @@
-<h1 align="center" > Hi, I'm Joaquim Breno </h2>
+<h1 align="center"> Hi, I'm Joaquim Breno </h2>
 
-<h2 align="center" > 🔧 Technologies & Tools </h2>
+<h2 align="center"> 🔧 Technologies & Tools </h2>
 <p align="center"> 
    <a><img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&labelColor=black&logoColor=white&color=290800"></img></a>
+   <a><img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&labelColor=black&logoColor=white&color=290800"></img></a>
    <a><img src="https://img.shields.io/badge/Code-C-Language?style=flat&logo=c&labelColor=black&logoColor=white&color=290800"></img></a>
    <a><img src="https://img.shields.io/badge/Code-CPlusPlus-Language?style=flat&logo=cplusplus&labelColor=black&logoColor=white&color=290800"></img></a>
    <a><img src="https://img.shields.io/badge/Code-Python-Language?style=flat&logo=python&labelColor=black&logoColor=white&color=290800"></img></a>
    <a><img src="https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&labelColor=black&logoColor=white&color=290800"></img></a>
+   <a><img src="https://img.shields.io/badge/Code-Qt-informational?style=flat&logo=qt&labelColor=black&logoColor=white&color=290800"></img></a>
+   <a><img src="https://img.shields.io/badge/Code-Arduino-informational?style=flat&logo=arduino&labelColor=black&logoColor=white&color=290800"></img></a>
    <a><img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&labelColor=black&logoColor=white&color=290800"></img></a>
    <a><img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&labelColor=black&logoColor=white&color=290800"></img></a>
    <a><img src="https://img.shields.io/badge/Code-Html-informational?style=flat&logo=html5&labelColor=black&logoColor=white&color=290800"></img></a>
@@ -36,14 +39,14 @@
 </p>
 <p align="center">  
 <a href="https://www.instagram.com/joaquimbreno_/">
-  <img src="https://img.shields.io/badge/-Instagram-333333?style=flat&logo=instagram" />
+  <img src="https://img.shields.io/badge/-Instagram-333333?style=flat&logo=instagram&labelColor=black&logoColor=white&color=290800" />
 </a>
 <a href="https://www.linkedin.com/in/joaquimbreno/">
-  <img src="https://img.shields.io/badge/-Linkedin-333333?style=flat&logo=Linkedin" />   
+  <img src="https://img.shields.io/badge/-Linkedin-333333?style=flat&logo=Linkedin&labelColor=black&logoColor=white&color=290800" />   
 </a>
 </p>
 <p align="center">
-<img src ="https://komarev.com/ghpvc/?username=JoaquimBreno&color=red" />
+<img src ="https://komarev.com/ghpvc/?username=JoaquimBreno&labelColor=black&logoColor=white&color=290800" />
 </p>
 
 <!--
