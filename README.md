@@ -23,7 +23,6 @@
    </a>
 </p>
 
-<br></br>
 
 <h2 align="center"> 🦾 Experiences </h2>
 <p>
