@@ -1,6 +1,30 @@
 <h1 align="center"> Hi, I'm Joaquim Breno </h2>
 <img src="animationme(1).gif"></img>
 
+<h2 align="center"> About me 🤗</h2>
+<img width="200" align="left" src="https://media.giphy.com/media/yr7n0u3qzO9nG/giphy.gif"></img>
+<p align="right"> 
+   <em>
+   I’m a Computer Engineering student focused on study Data Science and Web Development.
+   </br>I love to build applications and elegant interfaces to improve </br> the making decision process and make easy the people's daily lives.
+   </br>I'm also a passionate for open-source. </br> I learned a lot from the open-source community </br> and this moves me to share knowledge between networks.
+   </em>
+</p>
+
+<p align="center"> 
+   <a href="https://discord.gg/x6KcpDtd">
+     <img alt="Joaquim's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+   </a>
+   <a href="https://twitter.com/JoaquimBrenoBR">
+     <img alt="Joaquim Breno | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+   </a>
+   <a href="https://open.spotify.com/user/22v2ohmlfho5jd2bnfi2rjnvq?si=DZeXzqzCTQmjSse3CW-5cA">
+     <img alt="Joaquim's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+   </a>
+</p>
+
+<br></br>
+
 <h2 align="center"> 🦾 Experiences </h2>
 <p>
    <img align='right' width="250" src="https://media.giphy.com/media/OqLDMYGzIf1x3txUbF/giphy.gif"></img> 
@@ -13,13 +37,14 @@
    </br>Web Developer at 
    <a href="https://www.instagram.com/rasufpb/">RAS-UFPB</a>
    <img src="https://media.giphy.com/media/3oFzlYuazAesniYNVe/giphy.gif" width="18"> 
-   </em>
    </br>Member of 
    <a href="https://github.com/TailUFPB">TAIL-UFPB</a>
    <img src="https://aria.ci.ufpb.br/wp-content/uploads/2020/08/Captura-de-Tela-2020-08-16-a%CC%80s-11.57.39.png" width="30"> 
    </em>
 </p>
+
 <br></br>
+
 <h2 align="center"> 🔧 Technologies & Tools </h2>
 <p align="center"> 
    <a><img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&labelColor=black&logoColor=white&color=290800"></img></a>
