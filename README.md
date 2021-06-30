@@ -1,20 +1,24 @@
 <h1 align="center"> Hi, I'm Joaquim Breno </h2>
 <img src="animationme(1).gif"></img>
 
+<h2 align="center"> 🦾 Experiences </h2>
 <p>
-   <img align='right' width="300" src="https://media.giphy.com/media/OqLDMYGzIf1x3txUbF/giphy.gif"></img> 
+   <img align='right' width="250" src="https://media.giphy.com/media/OqLDMYGzIf1x3txUbF/giphy.gif"></img> 
    <em>Computer Engineering at
    <a href="https://www.ufpb.br/">Federal University of Paraiba</a>
    <img src="https://media.giphy.com/media/MXiBagsrVdre4FKNxr/giphy.gif" width="30">
    </br>Developer and Researcher at 
    <a href="https://aria.ci.ufpb.br/">ARIA</a>
-   <img src="https://media.giphy.com/media/NE353aasvIpC7u6aHv/giphy.gif" width="30"> 
-   </br>Developer and Researcher at 
-   <a href="https://aria.ci.ufpb.br/">ARIA</a>
-   <img src="https://media.giphy.com/media/NE353aasvIpC7u6aHv/giphy.gif" width="30"> 
+   <img src="https://media.giphy.com/media/l41lTrvWbwuEy9U3e/giphy.gif" width="30"> 
+   </br>Web Developer at 
+   <a href="https://www.instagram.com/rasufpb/">RAS-UFPB</a>
+   <img src="https://media.giphy.com/media/3oFzlYuazAesniYNVe/giphy.gif" width="18"> 
+   </em>
+   </br>Member of 
+   <a href="https://github.com/TailUFPB">TAIL-UFPB</a>
+   <img src="https://aria.ci.ufpb.br/wp-content/uploads/2020/08/Captura-de-Tela-2020-08-16-a%CC%80s-11.57.39.png" width="30"> 
    </em>
 </p>
-
 <br></br>
 <h2 align="center"> 🔧 Technologies & Tools </h2>
 <p align="center"> 
