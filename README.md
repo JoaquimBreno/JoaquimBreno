@@ -26,6 +26,7 @@
 
 <h2 align="center"> 🦾 Experiences </h2>
 <p>
+   <img align="right" src="elmo.gif" width="250" ></img>
    <em>Computer Engineering at
    <a href="https://www.ufpb.br/">Federal University of Paraiba</a>
    </br>Developer and Researcher at 
