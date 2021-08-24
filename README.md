@@ -5,7 +5,7 @@
 <img width="200" align="left" src="https://media.giphy.com/media/yr7n0u3qzO9nG/giphy.gif"></img>
 <p align="right"> 
    <em>
-   I’m a Computer Engineering student focused on study Data Science and Web Development.
+   I’m a Computer Engineering student focused on study Data Science and Deep Learning.
    </br>I love to build applications and elegant interfaces to improve </br> the making decision process and make easy the people's daily lives.
    </br>I'm also a passionate for open-source. </br> I learned a lot from the open-source community </br> and this moves me to share knowledge between networks.
    </em>
