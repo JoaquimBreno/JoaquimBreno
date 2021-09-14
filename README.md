@@ -47,7 +47,6 @@
    <a><img src="https://img.shields.io/badge/Code-C-Language?style=flat&logo=c&labelColor=black&logoColor=white&color=290800"></img></a>
    <a><img src="https://img.shields.io/badge/Code-CPlusPlus-Language?style=flat&logo=cplusplus&labelColor=black&logoColor=white&color=290800"></img></a>
    <a><img src="https://img.shields.io/badge/Code-Python-Language?style=flat&logo=python&labelColor=black&logoColor=white&color=290800"></img></a>
-   <a><img src="https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&labelColor=black&logoColor=white&color=290800"></img></a>
    <a><img src="https://img.shields.io/badge/Code-Qt-informational?style=flat&logo=qt&labelColor=black&logoColor=white&color=290800"></img></a>
    <a><img src="https://img.shields.io/badge/Code-Arduino-informational?style=flat&logo=arduino&labelColor=black&logoColor=white&color=290800"></img></a>
    <a><img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&labelColor=black&logoColor=white&color=290800"></img></a>
