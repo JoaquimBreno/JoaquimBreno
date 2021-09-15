@@ -35,6 +35,8 @@
    <a href="https://www.instagram.com/rasufpb/">RAS-UFPB</a>
    </br>Member of 
    <a href="https://github.com/TailUFPB">TAIL-UFPB</a>
+   </br>Project intern at
+   <a href="https://moises.ai/">Moises</a>
    </em>
 </p>
 
