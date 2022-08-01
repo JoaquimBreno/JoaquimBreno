@@ -76,7 +76,7 @@
 <p align="center">
 <a href="https://github.com/JoaquimBreno">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaquimBreno&bg_color=30,290800,000000&title_color=fff&text_color=fff" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquimBreno&bg_color=30,290800,000000&title_color=fff&text_color=fff&layout=compact&langs_count=6" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquimBreno&hide=jupyter%20notebook&bg_color=30,290800,000000&title_color=fff&text_color=fff&layout=compact&langs_count=6" />
 </a>
 </p>
 <h3 align="center">Feel free to take a look at my projects below</h3>
