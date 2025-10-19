@@ -31,11 +31,9 @@
    <a href="https://www.ufpb.br/">Federal University of Paraiba</a>
    </br>Developer and Researcher at 
    <a href="https://aria.ci.ufpb.br/">ARIA</a>
-   </br>Web Developer at 
-   <a href="https://www.instagram.com/rasufpb/">RAS-UFPB</a>
    </br>Member of 
    <a href="https://github.com/TailUFPB">TAIL-UFPB</a>
-   </br>Project intern at
+   </br>Machine Learning Intern at
    <a href="https://moises.ai/">Moises</a>
    </em>
 </p>
